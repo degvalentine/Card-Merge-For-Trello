@@ -23,6 +23,7 @@
         "matches": ["https://trello.com/b/*"],
         "js": [
             "lib/jquery-3.2.1.min.js",
+            "lib/attrchange.js",
             "scripts/main.js"
         ],
         "run_at": "document_idle"
